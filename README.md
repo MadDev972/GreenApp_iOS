@@ -1,7 +1,7 @@
 GreenApp_iOS
 ============
 
-/* Code written in 2012 for iOS 5 - iPhone only- . */
+/* Code written in 2012 for iOS 5 - iPhone only. */
 
 An app for all things environment-friendly !
 
